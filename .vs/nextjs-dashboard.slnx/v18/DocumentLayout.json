@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scott\\OneDrive\\Documents\\Programming\\MIT Bootcamp\\Module 25\\nextjs-dashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\scott\\OneDrive\\Documents\\Programming\\MIT Bootcamp\\Module 25\\nextjs-dashboard\\src\\app\\ui\\invoices\\layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\ui\\invoices\\layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\scott\\OneDrive\\Documents\\Programming\\MIT Bootcamp\\Module 25\\nextjs-dashboard\\src\\app\\ui\\customers\\layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\ui\\customers\\layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\scott\\OneDrive\\Documents\\Programming\\MIT Bootcamp\\Module 25\\nextjs-dashboard\\src\\app\\ui\\dashboard\\nav-links.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\ui\\dashboard\\nav-links.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\scott\\OneDrive\\Documents\\Programming\\MIT Bootcamp\\Module 25\\nextjs-dashboard\\src\\app\\ui\\dashboard\\layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\ui\\dashboard\\layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "layout.jsx",
+              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Documents\\Programming\\MIT Bootcamp\\Module 25\\nextjs-dashboard\\src\\app\\ui\\invoices\\layout.jsx",
+              "RelativeDocumentMoniker": "src\\app\\ui\\invoices\\layout.jsx",
+              "ToolTip": "C:\\Users\\scott\\OneDrive\\Documents\\Programming\\MIT Bootcamp\\Module 25\\nextjs-dashboard\\src\\app\\ui\\invoices\\layout.jsx",
+              "RelativeToolTip": "src\\app\\ui\\invoices\\layout.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-09-08T21:05:33.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "layout.jsx",
+              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Documents\\Programming\\MIT Bootcamp\\Module 25\\nextjs-dashboard\\src\\app\\ui\\customers\\layout.jsx",
+              "RelativeDocumentMoniker": "src\\app\\ui\\customers\\layout.jsx",
+              "ToolTip": "C:\\Users\\scott\\OneDrive\\Documents\\Programming\\MIT Bootcamp\\Module 25\\nextjs-dashboard\\src\\app\\ui\\customers\\layout.jsx",
+              "RelativeToolTip": "src\\app\\ui\\customers\\layout.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-09-08T21:05:00.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nav-links.jsx",
+              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Documents\\Programming\\MIT Bootcamp\\Module 25\\nextjs-dashboard\\src\\app\\ui\\dashboard\\nav-links.jsx",
+              "RelativeDocumentMoniker": "src\\app\\ui\\dashboard\\nav-links.jsx",
+              "ToolTip": "C:\\Users\\scott\\OneDrive\\Documents\\Programming\\MIT Bootcamp\\Module 25\\nextjs-dashboard\\src\\app\\ui\\dashboard\\nav-links.jsx",
+              "RelativeToolTip": "src\\app\\ui\\dashboard\\nav-links.jsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-09-08T20:42:52.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "layout.jsx",
+              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Documents\\Programming\\MIT Bootcamp\\Module 25\\nextjs-dashboard\\src\\app\\ui\\dashboard\\layout.jsx",
+              "RelativeDocumentMoniker": "src\\app\\ui\\dashboard\\layout.jsx",
+              "ToolTip": "C:\\Users\\scott\\OneDrive\\Documents\\Programming\\MIT Bootcamp\\Module 25\\nextjs-dashboard\\src\\app\\ui\\dashboard\\layout.jsx",
+              "RelativeToolTip": "src\\app\\ui\\dashboard\\layout.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-09-08T17:02:32.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
